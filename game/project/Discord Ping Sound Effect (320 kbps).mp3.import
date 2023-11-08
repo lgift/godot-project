@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Discord Ping Sound Effect (320 kbps).mp3-8f23c459c7f8794c05e2c56ca2b3697c.mp3str"
+
+[deps]
+
+source_file="res://Discord Ping Sound Effect (320 kbps).mp3"
+dest_files=[ "res://.import/Discord Ping Sound Effect (320 kbps).mp3-8f23c459c7f8794c05e2c56ca2b3697c.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

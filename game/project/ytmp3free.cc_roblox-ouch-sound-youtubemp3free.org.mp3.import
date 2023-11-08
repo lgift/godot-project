@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ytmp3free.cc_roblox-ouch-sound-youtubemp3free.org.mp3-b7599f1eab7b7c178ee1d0d58056e4fc.mp3str"
+
+[deps]
+
+source_file="res://ytmp3free.cc_roblox-ouch-sound-youtubemp3free.org.mp3"
+dest_files=[ "res://.import/ytmp3free.cc_roblox-ouch-sound-youtubemp3free.org.mp3-b7599f1eab7b7c178ee1d0d58056e4fc.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
